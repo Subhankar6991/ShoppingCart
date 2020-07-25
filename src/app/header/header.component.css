@@ -1,0 +1,12 @@
+.dropdown-item:hover{
+  background-color: #5458ff;
+  color: antiquewhite;
+  border-radius: 2px;
+  font-weight: bolder ;
+}
+.dropdown-item{
+
+  color: rgba(85,9,22,0.88);
+
+  font-weight: bolder ;
+}
